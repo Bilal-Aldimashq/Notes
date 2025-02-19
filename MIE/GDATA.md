@@ -2,6 +2,7 @@
 _________
 - Désactiver Fast boot (powercfg / off)
 - Désactiver veille
+- Désactiver Microsoft Defender
 - Ouvrir powershell en admin
 - Sur une page web: eljonjon.net/Publics/msp.txt
 - Copier le contenu sur la commande powershell 
