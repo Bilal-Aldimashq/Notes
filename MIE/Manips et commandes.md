@@ -1,3 +1,7 @@
+>#### 1- Fastboot  
+>#### 2- Déceler une boucle réseaux 
+>#### 3- Démarrage iDrac  
+
 ## **Fastboot**
 WIN + R --> powercfg.cpl    
 Aller dans _Options d'Alimentation --> Décocher _Activer démarrage rapide_
@@ -22,3 +26,11 @@ ______________________________________________________________________
 - Diagnostiquer sur la prise ou l'appareil correpondant au repère du noyau ce qu'il se passe (Souvent un appareil avec deux câbles ethernet). Il peut s'agir d'une défaillance d'un appareil ou d'un câble.
 
 __________________________________________________________________
+
+## **Démarrage iDrac**
+- Faire un ipscanner depuis un poste du réseau
+- Repérer l'adresse iDrac et la rentrer dans la barre de recherche d'un navigateur web
+- Les login sont **root** et **MDP@**  ou sont dans le Wiki
+- Une fois sur la console, on peut gérer l'alimentation du serveur ou contrôler les journaux d'évènement
+
+__________________________________________________________________________
