@@ -40,7 +40,7 @@ ______________________________________________________________
 
 **Sur le poste Client**
 - Ouvrir le gestionnaire de clé Regedit (**WIN+R: regedit**)
-- Contrôler la ComputerName dans _`HK_LOCAL_MACHINE`_--> _SOFTWARE_--> _WOW6432Node--> _GDATA_--> `_AVK_CLIENT`_
+- Contrôler la ComputerName dans _`HK_LOCAL_MACHINE`_--> _SOFTWARE_--> _WOW6432Node--> _GDATA_--> _`AVK_CLIENT`_
 - Faire une capture d'écran de la clé
 - Aller sur la console Gdata et contrôler que le poste remonte bien avec le nom de la clé (Sinon le supprimer et faire remonter comme à l'installation)
 - Si besoin de mettre à jour, sur l'icône GData de la barre de tâches--> Clic droit--> Mise à jour--> Cliquer sur _Mettre à jour_ puis _Actualiser_
