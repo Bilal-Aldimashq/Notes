@@ -1,3 +1,7 @@
+>#### 1- Façon Timothée
+_____________
+
+
 ## Façon Timothée
 
 `Prévoir une clé USB d'au moins 8Gb`
@@ -37,6 +41,6 @@
 - Créé un nouveau profil MIE et MDP@. Le rajoute dans le groupe Aministrateurs
 - Créer le dossier C:\MIE
 - Réinstaller les logiciel si besoin et si possibe
-  
-
+______________________
+______________________
 
