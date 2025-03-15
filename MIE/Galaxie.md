@@ -1,5 +1,9 @@
 # **GALAXIE**
-## Kill session 
+_______________
+>#### 1- Kill session
+>#### 2- Problème fichier FSE
+_______________
+## **1- Kill session** 
 - Identifier le nom de la session posant problème sur le poste client
 - Aller sur le serveur TSE (Il gère les sessions distante)
 - Aller sur _Gestionnaire de serveur_--> _Service de Bureaux à Distance_--> _Collections_--> _TSE_
@@ -11,5 +15,14 @@
 - Sur le serveur, Ouvrir le gestionnaire de tâches (**WIN+R: taskmgr**)
 - Dans l'onglet _Utilisateurs_--> Clic droit sur la session identifier sur le poste client--> _Déconnecter_ (x2 ou 3)
 
-_________________________________________________________________
+_______
+_______
 
+## **2- Problème fichier FSE**
+- Aller sur le serveur
+- Ouvrir un cmd et rentrer _netshare_
+- Trouver le dossier partagé pouvant contenir Pyxvital
+- Mapper sur le poste client avec l'IP du serveur
+
+_______
+_______
