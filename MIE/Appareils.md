@@ -1,7 +1,8 @@
 >#### 1- Lecteurs de cartes
+>#### 2- Claviers sans fil Dell
 ___________________
 
-## 1- Lecteurs de Cartes
+## **1- Lecteurs de Cartes**
 
 **DiagAm** permet de diagnostiquer les lecteurs de cartes vitale (ATSAM pour le télécharger).  
 
@@ -18,3 +19,8 @@ ___________________
 _________
 _________
 
+## **2- Claviers sans fil Dell**
+Pour manager les claviers et souris sans fil Dell, utiliser **Dell Peripheral Manager**
+
+_________
+_________
