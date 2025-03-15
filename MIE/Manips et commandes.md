@@ -1,17 +1,24 @@
->#### 1- Fastboot  
->#### 2- Déceler une boucle réseaux 
->#### 3- Démarrage iDrac
+>#### 1- Commandes Windows
+>#### 2- Fastboot  
+>#### 3- Déceler une boucle réseaux 
+>#### 4- Démarrage iDrac
 
 
 _________________________
+## **1- Commandes Windows**
+### WIN+R:
+- Gestion alimentation: powercfg.cpl
+- 
 
-## **1- Fastboot**
+____________________________
+____________________________
+## **2- Fastboot**
 WIN + R --> powercfg.cpl    
 Aller dans _Options d'Alimentation --> Décocher _Activer démarrage rapide_
 ______________________________
 ______________________________
 
-## **2- Déceler une boucle réseaux**
+## **3- Déceler une boucle réseaux**
 - Débrancher électriquement ou du réseau, les switchs présent dans la baie informatique.
 - Les rebrancher un par un jusqu'a prendre la main sur un poste
 - Lorsqu'un poste est disponible, faire un ping vers 8.8.8.8 -t
@@ -32,7 +39,7 @@ ______________________________
 _________________________
 _________________________
 
-## **3- Démarrage iDrac**
+## **4- Démarrage iDrac**
 - Faire un ipscanner depuis un poste du réseau
 - Repérer l'adresse iDrac et la rentrer dans la barre de recherche d'un navigateur web
 - Les login sont **root** et **MDP@**  ou sont dans le Wiki
