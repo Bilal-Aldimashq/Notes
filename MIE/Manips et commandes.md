@@ -8,6 +8,7 @@
 >#### 8- Raccourci scanner CC4
 >#### 9- Check IP Publique
 >#### 10- Check connexion TeamViewer
+>#### 11- SAV Dell
 
 
 _________________________
@@ -109,3 +110,11 @@ ________
 Explorateur de fichier--> Teamviewer--> Connections-incoming
 ________
 ________
+
+## **11- SAV Dell**
+Pour contrôler un PC Dell qui fonctionne mal:  
+- Redémarrer le poste en appuyant sur F12 pour accéder au bios
+- _Boot menu_--> _Diagnostics_--> Affichage du résultat et du code erreur s'il y a--> _Validation_
+- Redémarrer en appuyant sur F2--> _System information_--> _Hard drive_ pour avoir des informations sur l'état du disque
+______
+______
