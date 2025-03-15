@@ -1,6 +1,7 @@
 >#### 1- Vider les caches Logos
 >#### 2- Activer carte CPS
->#### 3- Problèmes accès Patients
+>#### 3- Problèmes accès dossier Wlogos2\Patients
+>#### 4- Supprimer un dossier patient
 ___________________
 
 # 1- Vider les caches Logos:
@@ -38,7 +39,7 @@ _____________________
 ___________________________________________
 ___________________________________________
 
-# 3- Problème accès Patients:
+# 3- Problème accès dossier Wlogos2\Patients:
 
 - Aller sur le **poste serveur** (Par exemple: Nom= PANO)
 - Ouvrir la console _Gestion de l'ordinateur_ (**WIN+R: compmgmt.msc**)
@@ -62,3 +63,10 @@ ___________________________________________
     >- REMARQUE: Si Logos ne s'ouvre pas, changer le nom du PANO par son IP
 - Activer les sessions invités dans les stratégie de groupe si possible
 - Relancer le logiciel Logos
+_____________________
+_____________________
+
+# 4- Supprimer un dossier patient
+Dans Logos--> _PATIENTS_--> Cliquer sur le dossier du patient
+Aller sur _Etat civile_--> _Options_--> _Supprimer ce dossier_
+
