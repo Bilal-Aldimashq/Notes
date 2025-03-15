@@ -54,4 +54,4 @@ ___________________________________________
 - Le chemin de partage s'affiche--> Cliquer sur _Terminer_
 
 **Sur le poste Client**
-- Contrôler Windows Defender (**WIN+R: wf.msc**) et le fastboot. Les désactiver si nécessaire
+- Contrôler Windows Defender (**WIN+R: wf.msc**) et le [fastboot](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Manips%20et%20commandes.md#1--fastboot-1). Les désactiver si nécessaire
