@@ -1,4 +1,7 @@
-# Lecteurs de Cartes
+>#### 1- Lecteurs de cartes
+___________________
+
+## 1- Lecteurs de Cartes
 
 **DiagAm** permet de diagnostiquer les lecteurs de cartes vitale (ATSAM pour le télécharger).  
 
@@ -10,5 +13,8 @@
       ou
     - Dans **Gestion d'alimentation**--> Choisir l'action des boutons--> Décocher Démarrage rapide.
 - Redémarrer le poste
-- Eventuellement mise à jour des drivers des ports USB via Dell Support ou similaire suivant marque du poste.   
+- Eventuellement mise à jour des drivers des ports USB via Dell Support ou similaire suivant marque du poste.
+
+_________
+_________
 
