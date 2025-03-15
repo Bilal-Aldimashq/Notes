@@ -42,9 +42,11 @@ ______________________________________________________________
 - Ouvrir le gestionnaire de clé Regedit (**WIN+R: regedit**)
 - Contrôler la ComputerName dans _`HK_LOCAL_MACHINE`_--> _SOFTWARE_--> _WOW6432Node--> _GDATA_--> _`AVK_CLIENT`_
 - Faire une capture d'écran de la clé
-- Aller sur la console Gdata et contrôler que le poste remonte bien avec le nom de la clé (Sinon le supprimer et faire remonter comme à l'installation)
-- Si besoin de mettre à jour, sur l'icône GData de la barre de tâches--> Clic droit--> Mise à jour--> Cliquer sur _Mettre à jour_ puis _Actualiser_
-      - Rafraichir la console Gdata jusqu'a remonté les mêmes versions que le poste. Si besoin redémarrer les services Gdata dans le gestionnaire de _Services_ (**WIN+R: Services.msc**)
+
+
+- Aller **sur la console Gdata** et contrôler que le poste remonte bien avec le nom de la clé (Sinon le supprimer et faire remonter comme à l'installation)
+- Si besoin de mettre à jour, aller sur l'icône GData de la barre de tâches--> Clic droit--> Mise à jour--> Cliquer sur _Mettre à jour_ puis _Actualiser_
+        - Rafraichir la console Gdata jusqu'a remonté les mêmes versions que le poste. Si besoin redémarrer les services Gdata dans le gestionnaire de _Services_ (**WIN+R: Services.msc**)
 - Faire une capture d'écran de la console indiquant protégé et avec le même nom que la clé
    - Si des risques persistent malgré la mise à jour, aller dans l'onglet _Journaux_--> cliquer sur les risques isolés par GData pour les marquer comme lu.
 - Faire une capture d'écran du disque de stockage du poste
