@@ -1,5 +1,6 @@
 >#### 1- Vider les caches Logos
 >#### 2- Activer carte CPS
+>#### 3- Problèmes accès Patients
 ___________________
 
 # 1- Vider les caches Logos:
@@ -36,3 +37,21 @@ _____________________
     - Cliquer sur_Adresse facile_
 ___________________________________________
 ___________________________________________
+
+# 3- Problème accès Patients:
+
+- Aller sur le **poste serveur** (Par exemple: Nom= PANO)
+- Ouvrir la console _Gestion de l'ordinateur_ (**WIN+R: compmgmt.msc**)
+- Si besoin créer un profil Logos avec pour mot de passe Logos
+- Rajouter ce nouveaux profil dans le groupe Administrateurs
+- Dans l'explorateur de fichier (**WIN+E**), trouver le dossier **Patients** ( Le chemin est indiqué sur le message d'erreur du poste client), par défault celui-ci est _C:\Wlogos2\Patients_
+- Faire un clic droit sur ce dossier--> _Partage_
+- Il y apparraît le chemin de partage réseaux. Par exemple PANO\Wlogos2
+- Cliquer sur _Partage_
+- Rentrer le nom du profil Logos dans le menu déroulant--> Cliquer sur _Ajouter_
+- Dans la fenêtre du bas apparaît Logos--> Cliquer sur le menu déroulat et cliquer sur _Lecture et écriture_
+- Cliquer sur _Partager_
+- Le chemin de partage s'affiche--> Cliquer sur _Terminer_
+
+**Sur le poste Client**
+- Contrôler Windows Defender (**WIN+R: wf.msc**) et le fastboot. Les désactiver si nécessaire
