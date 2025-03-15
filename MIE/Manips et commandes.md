@@ -2,6 +2,7 @@
 >#### 2- Fastboot  
 >#### 3- Déceler une boucle réseaux 
 >#### 4- Démarrage iDrac
+>#### 5- Fichier Hosts
 
 
 _________________________
@@ -47,3 +48,16 @@ _________________________
 
 ___________________________
 ___________________________
+
+## **5- Fichiers Hosts**
+
+Pour remplir le fichier Hosts permettant de faire la traduction d'un hôte avec son adresse ip:
+- Ouvrir un CMD en Admin
+- Taper _ipfonfig /flushdns_
+- Retourner au niveau C:\
+- _cd windows_--> _cd system32_--> _cd drivers_--> _cd etc_--> _dir_ (pour afficher les fichiers présent)
+- _notepad hosts_
+- en bas du fichier, renseigner l'adresse IP et le nom d'hôte correspondant
+
+____________
+____________
