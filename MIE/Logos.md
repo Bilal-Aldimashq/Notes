@@ -54,4 +54,11 @@ ___________________________________________
 - Le chemin de partage s'affiche--> Cliquer sur _Terminer_
 
 **Sur le poste Client**
-- Contrôler Windows Defender (**WIN+R: wf.msc**) et le [fastboot](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Manips%20et%20commandes.md#1--fastboot-1). Les désactiver si nécessaire
+- Contrôler Windows Defender (**WIN+R: wf.msc**), le partage par mot de passe et le [fastboot](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Manips%20et%20commandes.md#1--fastboot-1). Les désactiver si nécessaire
+- Ouvrir une console mmc et rentrer _netplwiz_
+- Onglet _Options avancées_--> _Gérer les mots de passe_
+- Cliquer sur _Informations d'identification Windows_--> _Ajouter des informations d'identification Windows_
+- Rentrer le nom du poste serveur (PANO), ainsi que les identifiant créés Logos et mot de passe Logos--> _OK_.  
+    >- REMARQUE: Si Logos ne s'ouvre pas, changer le nom du PANO par son IP
+- Activer les sessions invités dans les stratégie de groupe si possible
+- Relancer le logiciel Logos
