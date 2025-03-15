@@ -6,6 +6,8 @@
 >#### 6- Scan vers Ordi
 >#### 7- MDP sur Word
 >#### 8- Raccourci scanner CC4
+>#### 9- Check IP Publique
+>#### 10- Check connexion TeamViewer
 
 
 _________________________
@@ -87,5 +89,18 @@ ________
 Pour une imprimante Brother MFC-9577DW
 - Faire un clic droit sur le bureau--> _Nouveau_--> _Racourci_
 - Ciblant vers: "C:\Program Files (x86)\ControlCenter4\BrCcBoot.exe" /model="MFC-9577DW"
+________
+________
+
+## **9- Check IP Publique**
+Pour avoir l'IP Publique d'un poste
+- Ouvrir une page web--> _checkip.eljonjon.net
+**Ou**
+- Ouvrir un CMD--> tracert
+________
+________
+
+## **10- Check connexion TeamViewer**
+Explorateur de fichier--> Teamviewer--> Connections-incoming
 ________
 ________
