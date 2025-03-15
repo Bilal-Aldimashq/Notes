@@ -17,6 +17,9 @@ _________________________
 
 ### CMD:
 - powercfg /h off = Désactiver le fastboot
+- sfc /scannow = Analyse et réparation des fichiers du système
+- Dism /Online /Cleanup-Image/ CheckHealth = Contrôle l'intégrité de l'image Windows
+- Dism /Online /Cleanup-Image/ RestoreHealth = réparation de l'image Windows (A faire après Checkhealth si l'opération réussi
 
 ____________________________
 ____________________________
