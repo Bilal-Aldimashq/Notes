@@ -25,3 +25,29 @@ _________
     - Relancer le service Gdata et rafraîchir la console
     - Les Moteur A et B doivent avoir les mêmes valeurs que sur le Poste. Si les versions ne sont pas les bonnes: Cliquer sur le petit menu rapide du poste--> clic droit sur Gdata--> Mise à jour--> Actualiser et Mettre à jour.
     - Si malgré tout les manipulations ne suffisent pas, Supprimer le poste depuis la console Gdata et relancer les services.
+ 
+- Faire une capture d'écran du numéro de série du poste, de la clé ComputerName, de l'espace de stockage du poste et de la console GData
+- Contrôler les moyens de sauvegardes du client et leur états si possible. Faire capture d'écran 
+- Envoyé par mail en réponse à tous du BL correspondant, les captures d'écran et des remarques du client si besoin  
+  
+ 
+______________________________________________________________
+
+# Renouvellement AV GData
+
+- Ouvrir console GData
+- Rentrer le nom du client dans le filtre
+
+**Sur le poste Client**
+- Ouvrir le gestionnaire de clé Regedit (**WIN+R: regedit**)
+- Contrôler la ComputerName dans _`HK_LOCAL_MACHINE`_--> _SOFTWARE_--> _WOW6432Node--> _GDATA_--> `_AVK_CLIENT`_
+- Faire une capture d'écran de la clé
+- Aller sur la console Gdata et contrôler que le poste remonte bien avec le nom de la clé (Sinon le supprimer et faire remonter comme à l'installation)
+- Si besoin de mettre à jour, sur l'icône GData de la barre de tâches--> Clic droit--> Mise à jour--> Cliquer sur _Mettre à jour_ puis _Actualiser_
+      - Rafraichir la console Gdata jusqu'a remonté les mêmes versions que le poste. Si besoin redémarrer les services Gdata dans le gestionnaire de _Services_ (**WIN+R: Services.msc**)
+- Faire une capture d'écran de la console indiquant protégé et avec le même nom que la clé
+   - Si des risques persistent malgré la mise à jour, aller dans l'onglet _Journaux_--> cliquer sur les risques isolés par GData pour les marquer comme lu.
+- Faire une capture d'écran du stockage du poste
+- Contrôler les moyens de sauvegardes du client et leur états si possible. Faire capture d'écran
+- Envoyé par mail en réponse à tous du BL correspondant, les captures d'écran et des remarques du client si besoin
+
