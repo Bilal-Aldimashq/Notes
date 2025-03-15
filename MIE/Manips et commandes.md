@@ -3,6 +3,7 @@
 >#### 3- Déceler une boucle réseaux 
 >#### 4- Démarrage iDrac
 >#### 5- Fichier Hosts
+>#### 6- Scan vers Ordi
 
 
 _________________________
@@ -61,3 +62,12 @@ Pour remplir le fichier Hosts permettant de faire la traduction d'un hôte avec 
 
 ____________
 ____________
+
+## **6- Scan vers Ordi**
+
+- Aller sur l'interface web de l'imprimante.  
+- Onglet _Connexion_--> _Numérisation_--> _Numériser vers FTP/SFTP_--> Cocher réseau
+
+**Sur un profil**  
+- _Numériser vers profil--> remplir Nom, Chemin du dossier partagé, Nom d'utilisateur et si besoin MDP.
+>Pour scan vers mail, utilisé un compte Laposte
