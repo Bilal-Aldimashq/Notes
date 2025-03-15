@@ -2,6 +2,7 @@
 >#### 2- Activer carte CPS
 >#### 3- Problèmes accès dossier Wlogos2\Patients
 >#### 4- Supprimer un dossier patient
+>#### 5- Problème de télétransmission
 ___________________
 
 # 1- Vider les caches Logos:
@@ -69,4 +70,17 @@ _____________________
 # 4- Supprimer un dossier patient
 Dans Logos--> _PATIENTS_--> Cliquer sur le dossier du patient
 Aller sur _Etat civile_--> _Options_--> _Supprimer ce dossier_
+
+____________________
+____________________
+
+# 5- Problème de télétransmission
+
+- Cliquer sur l'îcone de messagerie--> _Paramètres_--> _Test_ (Mails)--> Tester envoie (Normalement toujours bon)
+- _Test reception_--> Coché _SSL_ et _ Identification_
+- Dans la case _PORT_, renseigner 465
+- Dans _Authentification--> Pour Mot de passe _Idem FSE_
+- Faire le test (Doit être OK)
+
+
 
