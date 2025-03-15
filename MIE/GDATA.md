@@ -47,7 +47,7 @@ ______________________________________________________________
       - Rafraichir la console Gdata jusqu'a remonté les mêmes versions que le poste. Si besoin redémarrer les services Gdata dans le gestionnaire de _Services_ (**WIN+R: Services.msc**)
 - Faire une capture d'écran de la console indiquant protégé et avec le même nom que la clé
    - Si des risques persistent malgré la mise à jour, aller dans l'onglet _Journaux_--> cliquer sur les risques isolés par GData pour les marquer comme lu.
-- Faire une capture d'écran du stockage du poste
+- Faire une capture d'écran du disque de stockage du poste
 - Contrôler les moyens de sauvegardes du client et leur états si possible. Faire capture d'écran
 - Envoyé par mail en réponse à tous du BL correspondant, les captures d'écran et des remarques du client si besoin
 
