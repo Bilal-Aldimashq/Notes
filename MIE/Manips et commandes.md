@@ -5,6 +5,7 @@
 >#### 5- Fichier Hosts
 >#### 6- Scan vers Ordi
 >#### 7- MDP sur Word
+>#### 8- Raccourci scanner CC4
 
 
 _________________________
@@ -79,5 +80,12 @@ __________
 Dans Word:
 - Cliquer sur _Fichier_--> _Informations_--> _Protéger le document_--> _Chiffrer avec un mot de passe_
 - Taper un mot de passe --> _OK_--> Rtaper le mot de passe--> _OK_ pour confirmer
+________
+________
+
+## **8- Raccourci scanner CC4**
+Pour une imprimante Brother MFC-9577DW
+- Faire un clic droit sur le bureau--> _Nouveau_--> _Racourci_
+- Ciblant vers: "C:\Program Files (x86)\ControlCenter4\BrCcBoot.exe" /model="MFC-9577DW"
 ________
 ________
