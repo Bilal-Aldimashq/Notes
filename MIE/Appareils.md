@@ -3,6 +3,7 @@ ________
 
 >#### 1- Lecteurs de cartes
 >#### 2- Claviers sans fil Dell
+>#### 3- Problème pavé numérique Dell
 ___________________
 
 ## **1- Lecteurs de Cartes**
@@ -27,3 +28,8 @@ Pour manager les claviers et souris sans fil Dell, utiliser **Dell Peripheral Ma
 
 _________
 _________
+
+## **3- Problème pavé numérique Dell**
+- Aller sur le panneau de configuration--> _Rendre le clavier plus facile_--> Décocher _Activer les touches souris_
+_______
+_______
