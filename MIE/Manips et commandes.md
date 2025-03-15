@@ -4,6 +4,7 @@
 >#### 4- Démarrage iDrac
 >#### 5- Fichier Hosts
 >#### 6- Scan vers Ordi
+>#### 7- MDP sur Word
 
 
 _________________________
@@ -71,3 +72,12 @@ ____________
 **Sur un profil**  
 - _Numériser vers profil--> remplir Nom, Chemin du dossier partagé, Nom d'utilisateur et si besoin MDP.
 >Pour scan vers mail, utilisé un compte Laposte
+__________
+__________
+
+## **7- MDP sur Word**
+Dans Word:
+- Cliquer sur _Fichier_--> _Informations_--> _Protéger le document_--> _Chiffrer avec un mot de passe_
+- Taper un mot de passe --> _OK_--> Rtaper le mot de passe--> _OK_ pour confirmer
+________
+________
