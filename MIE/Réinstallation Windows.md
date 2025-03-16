@@ -2,11 +2,11 @@
 _____________
 
 
-## Façon Timothée
+## **1-Façon Timothée**
 
 `Prévoir une clé USB d'au moins 8Gb`
 - Connecter la clé sur un poste qui servira à la préparation
-- Télécharger Ventoy en zip
+- Télécharger Ventoy en zip ou utiliser _Media Creation Tool_
 - Dans le repo_interne, prendre BOB (Repo\isos\bob\isos\V.4.985) et le copier sur le poste de préparation.
 - Télécharger les pilotes réseaux du poste à réinstaller si besoin
 - Mettre Ventoy extrait et les pilotes dans le dossier C:\MIe (Le créé si besoin)
@@ -40,7 +40,34 @@ _____________
 - Ouvrir la console de _gestion de l'ordinateur_ (**WIN+R: compmgmt.msc**)
 - Créé un nouveau profil MIE et MDP@. Le rajoute dans le groupe Aministrateurs
 - Créer le dossier C:\MIE
-- Réinstaller les logiciel si besoin et si possibe
+- Réinstaller les imprimantes
+- Réinstaller les logiciels si besoin et si possibe
 ______________________
 ______________________
 
+## **2- Façon Téo**
+
+`Prévoir une clé USB d'au moins 8Gb`
+- Connecter la clé sur un poste qui servira à la préparation
+- Télécharger Ventoy en zip ou utiliser _Media Creation Tool_
+- Télécharger iso Windows 10
+- Lancer Ventoy--> Choisir _Ventoy 2disk_--> Sélectionner la clé USB--> _Install_
+- Repérer les application à réinstaller en comparant avec un poste similaire si besoin
+- S'il n'y a pas de base données il y a rien de spécifique sinon il faut un Macrium de façon à sauvegarder le données et les réécrire sur le nouveaux postes
+
+ **Sur le poste à réinstaller**
+
+- Insérer la clé USB
+- Démarrer le poste et appuyer de façon répéter sur la touche F12 pour ouvrir le menu Bios
+- Aller dans Bios Setup et désactiver le secure boot (Le poste peut redémarrer)
+- Redémarrer le poste avec F12
+- Sélectionner UEFI USB--> Ventoy--> Windows 10--> _ENTER_--> _Install windows_--> Booting normal mode
+- Ignorer la clef--> Faire un seul grand disque
+- Configuration Windows 10--> Créer un compte local--> Pas d'importation
+- Une fois arriver sur le bureau, installer Chrome et teamviewer
+- Ouvrir la console de _gestion de l'ordinateur_ (**WIN+R: compmgmt.msc**)
+- Créé un nouveau profil MIE et MDP@. Le rajoute dans le groupe Aministrateurs
+- Créer le dossier C:\MIE
+- Réinstaller les imprimantes
+- Réinstaller les logiciels si besoin et si possibe
+  
