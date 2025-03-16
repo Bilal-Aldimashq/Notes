@@ -1,8 +1,8 @@
 # **GALAXIE**
 _______________
->#### 1- Kill session
->#### 2- Problème fichier FSE
->#### 3- [Scan sur TSE]()
+>#### [1- Kill session](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Galaxie.md#1--kill-session-1)
+>#### [2- Problème fichier FSE](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Galaxie.md#2--probl%C3%A8me-fichier-fse-1)
+>#### [3- Scan sur TSE](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Galaxie.md#2--probl%C3%A8me-fichier-fse-1)
 >#### 4- [Changer affichage monétaire]()
 >#### [5- Problème moteur FSE]()
 
