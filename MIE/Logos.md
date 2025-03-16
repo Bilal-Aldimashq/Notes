@@ -7,6 +7,7 @@ _________
 >#### 4- Supprimer un dossier patient
 >#### 5- Problème de télétransmission
 >#### 6- [Fusionner carte CPS et CPE]()
+>#### [7- Erreur rouge dll]()
 ___________________
 
 ## **1- Vider les caches Logos:**
@@ -94,7 +95,21 @@ ____________
 ______
 ______
 
-
+## **7- Erreur rouge dll**
+Lors du démarrage de Logos si le message d'erreur apparaît dans une fenêtre rouge:
+- Essayer mise à jour de Logos dans la barre d'outils de Logos
+#### **Si cela ne suffit pas, réinstaller Logos:**
+- Ouvrir Logos--> _Outils_--> _Profil d'utilisateur_--> Prendre les renseignements des passerelles (Nom et chemin d'éxecutable) si possible
+- Fermer Logos
+- Renommer le fichier wlogos1 (sur le C:\) en wlogos1.old
+- Lancer l'installation de Logos. Soit dans le dossier C:\MIE ou en le copiant depuis le repo interne
+- Une fois l'installation terminnée, aller sur le fichier C:\wlogos1\config
+- Renseigner le chemin du dossier Patients partagé depuis le serveur
+- Appuyer sur la touche tab afin que les autres chemin du tableaux se remplissent automatiquement
+> Si les chemins se remplissent en rouge et sans afficher les dossiers des praticiens, contrôler l'accessibilté du chemin ou changer le nom du serveur par son IP
+- Lancer Logos et le laisse faire les MAJ
+- Si un problème persiste, redémmarrer le poste
+- Refaire les passerelles dans _Outils_--> _Profil d'utilisateurs_--> Sélectionner l'application d'imagerie et le chemin de son éxecutable (Copier sur un autre poste si besoin)
 
 
 
