@@ -15,6 +15,7 @@ ____________
 >#### [13- Autoriser session invité pour partage](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Manips%20et%20commandes.md#13--autoriser-session-invit%C3%A9-pour-partage-1)
 >#### [14- BlueScreen Violation Drivers](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Manips%20et%20commandes.md#14--bluescreen-violation-drivers-1)
 >#### [15- Empêcher Adobe de s'ouvrir pour fichier web](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Manips%20et%20commandes.md#15--emp%C3%AAcher-adobe-de-souvrir-pour-fichier-web-1)
+>#### [16- Allumage avec WakeOnLanX]()
 _________________________
 ## **1- Commandes Windows**
 ### WIN+R:
@@ -171,3 +172,8 @@ _____
 Dans l'application d'Adobe--> _Menu_--> _Préférences_--> _Internet_--> Décocher la case lecture par défault
 _____
 _____
+
+## **16- Allumage avec WakeOnLanX**
+Procédure dans le wiki
+____
+____
