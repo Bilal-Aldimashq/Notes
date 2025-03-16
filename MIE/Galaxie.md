@@ -2,6 +2,7 @@
 _______________
 >#### 1- Kill session
 >#### 2- Problème fichier FSE
+>#### 3- [Scan sur TSE]()
 _______________
 ## **1- Kill session** 
 - Identifier le nom de la session posant problème sur le poste client
@@ -26,3 +27,13 @@ _______
 
 _______
 _______
+
+## **3- Scan sur TSE**
+
+Sur le poste, trouver le dossier "Scanner_galaxie". Sinon le prendre sur le repo interne
+- Lancer l'installation de l'application--> _Install_--> _Ignore_--> Terminer
+- Copier le contenu du fichier _Système_ et coller le contenu dans le dossier `Scanner_Galaxie`
+- Déconnecter la session TSE
+- Lancer l'application _Passerelle scanner sans tw_
+- Remplir le chemin (Se trouve sur un autre poste)
+- Relancer la session et tester (Si fonctionne pas reboot du poste)
