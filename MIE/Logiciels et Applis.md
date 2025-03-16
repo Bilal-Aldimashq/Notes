@@ -85,4 +85,6 @@ ___________
 ## **4- Desmos**
 #### Imagerie s'ouvre pas
 - Trouver le chemin de la base Carestream
-- Faire une réauthentification comme [Logos]() 
+- Faire une réauthentification comme [Logos](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logos.md#3--probl%C3%A8me-acc%C3%A8s-dossier-wlogos2patients)
+_____________
+_____________
