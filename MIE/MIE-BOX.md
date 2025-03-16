@@ -6,6 +6,7 @@ ______
 >#### [4- Commande MIE-BOX]()
 >#### [5- Site MicroBoxConnect]()
 >#### [6- Remontées MIE-BOX]()
+>#### [7- Préparation MIE-BOX]()
 
 _____
 ## **1- Général**
@@ -70,6 +71,25 @@ Une fois logger sur la box (suivant les mails root)
 - Si un fichier save est dans les points de montage, le signaler dans le rapport
 ____
 ____
+
+## **7- Préparation MIE-BOX**
+- Insérer 3 disque de 1To ou 3 disque de 512Go dans la box
+- Insérer la clé USB de prépa dans la box
+- Brancher un clavier et un écran
+- Brancher un câble Ethernet sur le port 1
+- Cacher le port 2 et ilo
+- Noter le N° de la box à l'arrière
+- Démarrer la box et appuyer sur F11 (F9 si les disque ne sont détectés)
+  - _System option_--> _SATA_--> _Enbed_--> _Legacy_
+  - _Server Availaible_--> _Automatic power on_--> _Always-on_
+  - _Echap et F10 pour quitter et sauvegarder
+  - La box redémarre
+- A l'écran d'installation choisir _Install_
+- Installer avec _France_
+- Nom de box = miebox-465
+- Utilisateur root/ MDP = root
+- nom d'utilisateur = mieuser
+- 
 
 
   
