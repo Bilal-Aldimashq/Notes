@@ -4,6 +4,7 @@ _______________
 >#### 2- Problème fichier FSE
 >#### 3- [Scan sur TSE]()
 >#### 4- [Changer affichage monétaire]()
+>#### [5- Problème moteur FSE]()
 
 _______________
 ## **1- Kill session** 
@@ -46,3 +47,11 @@ ________
 Ouvrir le _Panneau de configuration_--> _Horloge et région_--> _Région_--> _Paramètres supplémentaires_--> _Symboles monétaires_--> _Symboles décimal_--> choisir **,** ou **.**--> _Appliquer_--> _OK_
 ________
 ________
+
+## **5- Problème moteur FSE**
+- Quitter Centre2Soins
+- En bas à droite, quitter e-resident
+- Ouvrir l'explorateur de fichier--> Utilisateur--> Aller sur l'utilisateur de la session (sur menu démarrer pour voir)
+- Supprimer le fichier _Pyxvital_ et relancer Centre2Soins
+____
+____
