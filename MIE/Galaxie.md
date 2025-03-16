@@ -3,6 +3,8 @@ _______________
 >#### 1- Kill session
 >#### 2- Problème fichier FSE
 >#### 3- [Scan sur TSE]()
+>#### 4- [Changer affichage monétaire]()
+
 _______________
 ## **1- Kill session** 
 - Identifier le nom de la session posant problème sur le poste client
@@ -37,3 +39,10 @@ Sur le poste, trouver le dossier "Scanner_galaxie". Sinon le prendre sur le repo
 - Lancer l'application _Passerelle scanner sans tw_
 - Remplir le chemin (Se trouve sur un autre poste)
 - Relancer la session et tester (Si fonctionne pas reboot du poste)
+________
+________
+
+## **4- Changer affichage monétaire**
+Ouvrir le _Panneau de configuration_--> _Horloge et région_--> _Région_--> _Paramètres supplémentaires_--> _Symboles monétaires_--> _Symboles décimal_--> choisir **,** ou **.**--> _Appliquer_--> _OK_
+________
+________
