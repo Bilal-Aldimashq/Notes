@@ -6,9 +6,10 @@ _________
 >#### 3- Problèmes accès dossier Wlogos2\Patients
 >#### 4- Supprimer un dossier patient
 >#### 5- Problème de télétransmission
+>#### 6- [Fusionner carte CPS et CPE]()
 ___________________
 
-# 1- Vider les caches Logos:
+## **1- Vider les caches Logos:**
 
 Dans l'explorateur de fichier--> Ce PC--> C:\--> Windows--> Temp --> Supprimer les fichiers caches s'y trouvant.  
 
@@ -18,7 +19,7 @@ Vider la corbeille.
 _____________________
 _____________________
 
-# 2- Activer carte CPS:
+## **2- Activer carte CPS:**
 
 `La carte doit être insérée dans le lecteur de carte`
 
@@ -43,7 +44,7 @@ _____________________
 ___________________________________________
 ___________________________________________
 
-# 3- Problème accès dossier Wlogos2\Patients:
+## **3- Problème accès dossier Wlogos2\Patients:**
 
 - Aller sur le **poste serveur** (Par exemple: Nom= PANO)
 - Ouvrir la console _Gestion de l'ordinateur_ (**WIN+R: compmgmt.msc**)
@@ -70,20 +71,30 @@ ___________________________________________
 _____________________
 _____________________
 
-# 4- Supprimer un dossier patient
+## **4- Supprimer un dossier patient**
 Dans Logos--> _PATIENTS_--> Cliquer sur le dossier du patient
 Aller sur _Etat civile_--> _Options_--> _Supprimer ce dossier_
 
 ____________________
 ____________________
 
-# 5- Problème de télétransmission
+## **5- Problème de télétransmission**
 
 - Cliquer sur l'îcone de messagerie--> _Paramètres_--> _Test_ (Mails)--> Tester envoie (Normalement toujours bon)
 - _Test reception_--> Coché _SSL_ et _ Identification_
 - Dans la case _PORT_, renseigner 465
 - Dans _Authentification--> Pour Mot de passe _Idem FSE_
 - Faire le test (Doit être OK)
+____________
+____________
+
+## **6- Fusionner carte CPS et CPE**
+
+- Dans Logos--> _Outils_--> _Profil Utilisateur_--> _Profil Assistante_--> Cocher les cases des praticiens attachés--> _Enregistrer_
+______
+______
+
+
 
 
 
