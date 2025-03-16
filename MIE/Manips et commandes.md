@@ -13,7 +13,7 @@ ____________
 >#### 11- SAV Dell
 >#### 12- Lenteur PC
 >#### [13- Autoriser session invité pour partage]()
-
+>#### [14- BlueScreen Violation Drivers]()
 
 _________________________
 ## **1- Commandes Windows**
@@ -149,5 +149,20 @@ _____
 ## **13- Autoriser session invité pour partage**
 - Ouvrir la console _Stratégie de groupe locale_ (**WIN+R: gpedit.msc**)
 - _Configuration Ordinateurs_--> _Modèle d'administration_--> _Réseau_--> _Station de travail LANMAN_--> _Activer les ouvertures de session invité non sécurisé_--> Cocher _Activer_--> _Appliquer_--> _OK_
+_____
+_____
+
+## **14- BlueScreen Violation Drivers**
+- Démarrer windows 2 ou 3 fois
+- Sur l'écran de démarrage avancée --> _Options Avancées_--> _Dépanner_--> __Options avancées_--> _Paramètres de démarrage_--> _Redémarrer_--> Choix **6** (Mode sans échec avec invite de commande)
+> Si cela ne fonctionne pas choisir _invite de commande_ dans options avancées
+>- Taper la commande: `bcdedit /set {default} safeboot minimal`
+>- Taper _Exit_ --> Eteindre le PC
+- Une fois que Windows redémarre, Ouvrir un CMD en admin
+- Taper la commande:
+  - verifier /bootmode resetonbootfail
+  - bcdedit /deletevalue {current} safeboot
+- Exit
+- Redémarrer le poste
 _____
 _____
