@@ -20,4 +20,9 @@ ____
   - [5- Problème moteur FSE](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Galaxie.md#5--probl%C3%A8me-moteur-fse-1)
 ____
 ### [Logiciels et Applis](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logiciels%20et%20Applis.md#logiciels-et-applications)
-  - 
+  - [1- Installation GData](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logiciels%20et%20Applis.md#logiciels-et-applications)
+  - [2- Renouvellement AV GData](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logiciels%20et%20Applis.md#2--renouvellement-av-gdata-1)
+  - [3- Installation Pack Office](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logiciels%20et%20Applis.md#3--installation-pack-office-1)
+  - [4- Desmos](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logiciels%20et%20Applis.md#4--desmos-1)
+  - [5- Wordpad](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logiciels%20et%20Applis.md#5--wordpad-1)
+  - [6- Orthalis](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logiciels%20et%20Applis.md#6--orthalis-1)
