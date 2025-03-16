@@ -5,7 +5,7 @@ _________
 >#### 3- Installation Pack Office
 >#### [4- Desmos](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logiciels%20et%20Applis.md#4--desmos-1)
 >#### [5- Wordpad]()
->#### [6- ]()
+>#### [6- Orthalis]()
 
 _________
 
@@ -107,3 +107,9 @@ Pour réinstaller Wordpad
 - Créer un raccource de Wordpad sur le bureau
 ___________
 ___________
+
+## **6- Orthalis**
+#### Problème de connexion 
+Même procédé que pour le dossier Patient Logos en partageant le dossier **Orqual**
+_____
+_____
