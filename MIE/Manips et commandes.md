@@ -1,3 +1,5 @@
+# **Manips et Commandes**
+____________
 >#### 1- Commandes Windows
 >#### 2- Fastboot  
 >#### 3- Déceler une boucle réseaux 
@@ -10,6 +12,7 @@
 >#### 10- Check connexion TeamViewer
 >#### 11- SAV Dell
 >#### 12- Lenteur PC
+>#### [13- Autoriser session invité pour partage]()
 
 
 _________________________
@@ -17,6 +20,8 @@ _________________________
 ### WIN+R:
 - Gestion alimentation: powercfg.cpl
 - Redémarrage poste: shutdown /r /f /t 0
+- Console _Stratégie de groupe_: gpedit.msc
+- Console _Gestion de l'ordinateur_: compmgmt.msc
 
 ### CMD:
 - powercfg /h off = Désactiver le fastboot
@@ -138,3 +143,11 @@ ______
    - **Dism /Online /Cleanup-Image /RestoreHealth**
 - Mise à jour du bios sur le support constructeur
 - Reboot du poste
+_____
+_____
+
+## **13- Autoriser session invité pour partage**
+- Ouvrir la console _Stratégie de groupe locale_ (**WIN+R: gpedit.msc**)
+- _Configuration Ordinateurs_--> _Modèle d'administration_--> _Réseau_--> _Station de travail LANMAN_--> _Activer les ouvertures de session invité non sécurisé_--> Cocher _Activer_--> _Appliquer_--> _OK_
+_____
+_____
