@@ -16,6 +16,7 @@ _________________________
 ## **1- Commandes Windows**
 ### WIN+R:
 - Gestion alimentation: powercfg.cpl
+- Redémarrage poste: shutdown /r /f /t 0
 
 ### CMD:
 - powercfg /h off = Désactiver le fastboot
