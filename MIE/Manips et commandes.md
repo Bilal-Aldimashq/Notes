@@ -9,6 +9,7 @@
 >#### 9- Check IP Publique
 >#### 10- Check connexion TeamViewer
 >#### 11- SAV Dell
+>#### 12- Lenteur PC
 
 
 _________________________
@@ -118,3 +119,20 @@ Pour contrôler un PC Dell qui fonctionne mal:
 - Redémarrer en appuyant sur F2--> _System information_--> _Hard drive_ pour avoir des informations sur l'état du disque
 ______
 ______
+
+## **12- Lenteur PC
+- Ouvrir le _Gestionnaire de tâches_--> Mettre fin au tâches inutiles
+- Dans l'onglet des applications de démarrage, Désactiver les applications inutiles au démarrage
+- Contrôler l'espace disque
+- Vider les caches Windows et Utilisateurs
+- Désactiver le fastboot, Désactiver la veille prolongée
+- Nettoyer le disque **WIN+R: cleanmgr**--> Sélectionner les fichiers temporaire--> _OK_
+- Contrôler l'état du disque dans l'explorateur de fichier--> Clic droit sur le disque--> _Propriétés_--> _Outils_--> _Vérifier_
+>Si un problème sur le disque est détecté, lancer la commande CMD en admin: **chkdsk /f C:** (C: s'il s'agit du disque C)
+- Vider la corbeille
+- Ouvrir un CMD en tant qu'Admin et lancer la commande:
+   - **scf /scannow**, suivi de:
+   - **Dism /Online /Cleanup-Image /CheckHealth**, si l'opération réussi faire:
+   - **Dism /Online /Cleanup-Image /RestoreHealth**
+- Mise à jour du bios sur le support constructeur
+- Reboot du poste
