@@ -89,7 +89,14 @@ ____
 - Nom de box = miebox-465
 - Utilisateur root/ MDP = root
 - nom d'utilisateur = mieuser
-- 
+- Choisir partition manuel
+- S'il y a des partitions sur les disques les supprimer
+- Sur chaque disque:
+  - Créer une partition 1Go--> Utiliser comme--> Ne pas utiliser
+  - Créer une partition 9Go--> Utiliser comme--> Ne pas utiliser
+  - Créer une partition 40Go --> Utiliser comme--> Ne pas utiliser
+  - Créer une partition avec le reste--> Utiliser comme--> Ne pas utiliser
+
 
 
   
