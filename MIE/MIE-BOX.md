@@ -49,6 +49,7 @@ ____
 - Avoir des infos de la box = `uname -a`
 - Afficher la version de Debian = `cat /etc/apt/source.list`
 - Voir les VPN Clients= `cd /etc/openvpn`--> `cat clients`
+- Voir ce qui est sauvegarder sur la box = `ncdu`
 _____
 _____
 
@@ -96,6 +97,25 @@ ____
   - Créer une partition 9Go--> Utiliser comme--> Ne pas utiliser
   - Créer une partition 40Go --> Utiliser comme--> Ne pas utiliser
   - Créer une partition avec le reste--> Utiliser comme--> Ne pas utiliser
+![](https://github.com/Bilal-Aldimashq/Notes/blob/main/Ressources/Partition_Debian%20(1).jpg)
+
+- Utiliser les partitions 1Go en Boot en ext4
+- Utiliser les partitions 9Go en swap
+- Utiliser les partitions 40Go pour root en ext4
+- Utiliser les partitions restantes en ext4
+- Aller sur _Configurer les RAID avec avec logiciel_
+  - Créer RAID 1 avec les partitions boot
+  - Créer RAID 1 avec partition Swap
+  - Créer RAID 1 avec partition Root
+  - Créer RAID 5 avec les partitions restantes
+![](https://github.com/Bilal-Aldimashq/Notes/blob/main/Ressources/Partition_Debian%20(4).jpg)
+
+- Terminer les partitions
+- Choisir la zone Mirroir des gestionnaire de paquets
+- Ne prendre aucun environement de bureau et cocher SSH
+- Quand l'installation est finis, débrancher la box--> Enlever la clé--> La redémarrer. Si tout boot bien c'est OK
+ 
+
 
 
 
