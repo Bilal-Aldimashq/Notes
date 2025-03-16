@@ -25,6 +25,16 @@ _________
 
 ## **2- Claviers sans fil Dell**
 Pour manager les claviers et souris sans fil Dell, utiliser **Dell Peripheral Manager**
+#### Clavier sans fil efface en écrivant:
+- Eteindre le clavier
+- Ouvrir _Gestionnaire de périphérique_--> Décocher _Gestion d'alimentation_ des ports USB
+- Mettre à jour le poste sur Dell Support
+- Ouvrir _Dell Management Component_--> Mettre à jour si besoin
+- Dissocier le clavier
+- Redémarrer le poste si besoin
+- Rallumer le clavier
+- Ouvrir _Dell Management Component_
+- Associer le clavier
 
 _________
 _________
