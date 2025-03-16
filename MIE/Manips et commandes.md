@@ -121,14 +121,15 @@ ______
 ______
 
 ## **12- Lenteur PC**
-- Ouvrir le _Gestionnaire de tâches_--> Mettre fin au tâches inutiles
+- Ouvrir le _Gestionnaire de tâches_--> Contrôler le temps d'utilisation--> Mettre fin au tâches inutiles
 - Dans l'onglet des applications de démarrage, Désactiver les applications inutiles au démarrage
 - Contrôler l'espace disque
 - Vider les caches Windows et Utilisateurs
-- Désactiver le fastboot, Désactiver la veille prolongée
+- Désactiver le fastboot, Désactiver la veille prolongée et coché la case _Performance élevée_
 - Nettoyer le disque **WIN+R: cleanmgr**--> Sélectionner les fichiers temporaire--> _OK_
 - Contrôler l'état du disque dans l'explorateur de fichier--> Clic droit sur le disque--> _Propriétés_--> _Outils_--> _Vérifier_
 >Si un problème sur le disque est détecté, lancer la commande CMD en admin: **chkdsk /f C:** (C: s'il s'agit du disque C)
+- **Optimiser les performance du disque**: Ouvrir la fenêtre de défragmenteur disque (**WIN+R: dfrgui**)--> _Optimiser_
 - Vider la corbeille
 - Ouvrir un CMD en tant qu'Admin et lancer la commande:
    - **scf /scannow**, suivi de:
