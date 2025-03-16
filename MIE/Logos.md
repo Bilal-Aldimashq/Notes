@@ -8,6 +8,7 @@ _________
 >#### 5- Problème de télétransmission
 >#### 6- [Fusionner carte CPS et CPE]()
 >#### [7- Erreur rouge dll]()
+>#### [8- Problème DBS Win]()
 ___________________
 
 ## **1- Vider les caches Logos:**
@@ -111,5 +112,14 @@ Lors du démarrage de Logos si le message d'erreur apparaît dans une fenêtre r
 - Si un problème persiste, redémmarrer le poste
 - Refaire les passerelles dans _Outils_--> _Profil d'utilisateurs_--> Sélectionner l'application d'imagerie et le chemin de son éxecutable (Copier sur un autre poste si besoin)
 
+_____
+_____
+
+## **8- Problème DBS Win**
+S'il y a un problème avec DBS Win
+- Prendre le chemin sans le .ini
+- Authentifier comme pour le dossier Patients
+_____
+_____
 
 
