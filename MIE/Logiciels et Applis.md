@@ -3,6 +3,7 @@ _________
 >#### 1- Installation GData
 >#### 2- Renouvellement AV GData
 >#### 3- Installation Pack Office
+>#### 4- Desmos
 _________
 
 
@@ -80,3 +81,8 @@ Il suffit de le désinstaller, aller dans les **programmes et fonctions installe
 
 ___________
 ___________
+
+## **4- Desmos**
+#### Imagerie s'ouvre pas
+- Trouver le chemin de la base Carestream
+- Faire une réauthentification comme [Logos]() 
