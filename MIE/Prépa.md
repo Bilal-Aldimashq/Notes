@@ -34,8 +34,40 @@ ____
   >   - Rentrer la commande `OOBE\bypassNRO`
   >   - L'ordinateur va redémarrer
   >   - Sélectionner _Je n'ai pas internet_
+  >   - Rebrancher le câble réseau une fois sur le bureau
+  >   - Installer Teamviewer, Chrome et adobe
 
 - Cliquer sur _Restore image_
 - Cliquer sur _Select a disk to restore to_
 - Sélectionner le disque C: (Pas de disque DATA)
 - _Next_--> _Finish_
+- A la fenêtre indiquant la fin de l'opération, cliquer _OK_--> fermer la fenêtre--> Le poste redémarre
+
+**Partie 2: Windows**
+- Ouvrir l'explorateur de fichier
+- Sur _Réseau_, ouvrir WDS-PREPA
+> S'il n'est pas accessible, ouvrir la console netplwiz--> renseigner **WDS-PREPA** et **Invité**
+- Ouvrir un terminal en Admin--> _Set-Execution Policy Unrestricted_--> _Oui_
+- Aller dans le dossier C:\MIE--> Clic droit sur script _Change host..._ et l'éxécuter--> Rentrer Nom du client, Poste et Trigramme
+- Remplir la fiche prépa avec le Teamviewer
+- Créer un Utilisateur MIE avec MDP@ et l'ajouter au groupe Administrateurs
+- Activer la licence windows (**WIN+R: slui**)
+- Lancer les mise à jour Windows
+- Aller sur _Dell Support_ et l'installer
+- Lancer les mise à jour Dell
+- Installer GData, Office suivant le BL
+- Désactiver le fastboot et les veille
+- Placer le curseur _UAC_ au plus bas
+- Désactiver les notifications Windows
+- Désactiver IPV de toutes les cartes réseau
+- Désactiver defender
+- S'il y a un deuxième disque, l'initialiser avec _Gestionnaire de disque_ (**WIN+R: diskmgmt.msc**)
+- Mettre Google Chrome par défaut
+- Installer les drivers des imprimantes et scanner si besoin
+- Ajout dans le domaine s'il y a
+**Pour les serveur**
+  Lancer le script WakeOnLan
+  - Installer Dell command/configures
+  - Exécuter le script PowerShell (sur dossier procédure)
+  - Ouvrir un CMD en Admin--> cd C:\programm Files(x86)\Dell\Command configure\x86_64
+  - Faire la commande: cctk.exe --wakeonlan --> La sortie doit indiquer _wakeonlan=LANWLAN_
