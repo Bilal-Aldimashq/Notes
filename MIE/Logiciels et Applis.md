@@ -4,6 +4,7 @@ _________
 >#### 2- Renouvellement AV GData
 >#### 3- Installation Pack Office
 >#### 4- [Desmos](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logiciels%20et%20Applis.md#4--desmos-1)
+>#### 5- [Wordpad]()
 _________
 
 
@@ -96,3 +97,11 @@ Si TW n'est pas trouver, renseigner le chemin (en général C:\programmex86\Care
 
 _____________
 _____________
+
+## **5- Wordpad**
+Pour réinstaller Wordpad
+- Télécharger Wordpad
+- Décompresser le dossier et le placer dans C:\Programmes\WindowsNT
+- Créer un raccource de Wordpad sur le bureau
+___________
+___________
