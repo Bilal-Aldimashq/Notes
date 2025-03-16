@@ -10,6 +10,9 @@ _________
 >#### [7- Erreur rouge dll]()
 >#### [8- Problème DBS Win]()
 >#### [9- Configuration des boîtes gmail]()
+>#### [10- Problème d'affichage]()
+>#### [11- Tablette Logos]()
+
 
 ___________________
 
@@ -132,4 +135,20 @@ _____
 _____
 _____
 
+## **10- Problème d'affichage**
+Dans Logos:
+- _Outils de configuration_--> _Affichage_
+- Réinitialiser les paramètres d'affichage--> Cliquer sur _Recalculer selon les soins_
+**Si le schéma ne convient pas:**
+- Clic droit vers le schéma des dents et cocher ce qu'il y a besoin
+____
+____
 
+## **11- Tablette Logos**
+> **!! Marche uniquement sur Android!!**
+- Télécharger et installer l'application Logos
+- Lancer lapplication et rentrer comme point d'accès l'IP d'un des postes disposant de Logos
+**Pour utiliser la tablette afin de faire signer un devis par un client**
+- Dresser le devis et cliquer sur l’icône de scan--> Sélectionner _Envoyer vers tablette_
+____
+____
