@@ -9,6 +9,8 @@ _________
 >#### 6- [Fusionner carte CPS et CPE]()
 >#### [7- Erreur rouge dll]()
 >#### [8- Problème DBS Win]()
+>#### [9- Configuration des boîtes gmail]()
+
 ___________________
 
 ## **1- Vider les caches Logos:**
@@ -119,6 +121,14 @@ _____
 S'il y a un problème avec DBS Win
 - Prendre le chemin sans le .ini
 - Authentifier comme pour le dossier Patients
+_____
+_____
+
+## **9- Configuration des boîtes gmail**
+
+- Sur Logos --> Icône _Mail_ (à gauche)--> _Oui_--> Cocher Gmail--> Rentrer le nom du Dr ou du centre--> Rentrer l'adresse mail
+- Rentrer le nom qui apparaîtra en destination--> Rechercher--> Sélectionner le compte--> Continuer-->Cocher Delete--> Continue--> Cocher les utilisateurs
+- Cliquer sur les signtures--> OK
 _____
 _____
 
