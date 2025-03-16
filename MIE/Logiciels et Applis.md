@@ -3,7 +3,7 @@ _________
 >#### 1- Installation GData
 >#### 2- Renouvellement AV GData
 >#### 3- Installation Pack Office
->#### 4- Desmos
+>#### 4- [Desmos](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logiciels%20et%20Applis.md#4--desmos-1)
 _________
 
 
