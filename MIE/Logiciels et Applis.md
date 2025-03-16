@@ -86,5 +86,13 @@ ___________
 #### Imagerie s'ouvre pas
 - Trouver le chemin de la base Carestream
 - Faire une réauthentification comme [Logos](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logos.md#3--probl%C3%A8me-acc%C3%A8s-dossier-wlogos2patients)
+
+#### Passerelle Imagerie
+- Se logger à Desmos avec le compte ADMIN (Identifiant du compte sur le Wiki Desmos Siège)
+- _Paramètres_--> _Paramétrages des données métiers_ (Image dent)--> _Image_
+- Cliquer sur le poste correspondant proposé dans la liste
+- Cocher la case _kodak_ ave  le bon chemin
+Si TW n'est pas trouver, renseigner le chemin (en général C:\programmex86\Carestream\tw)
+
 _____________
 _____________
