@@ -12,8 +12,8 @@ ____________
 >#### 10- Check connexion TeamViewer
 >#### 11- SAV Dell
 >#### 12- Lenteur PC
->#### [13- Autoriser session invité pour partage]()
->#### [14- BlueScreen Violation Drivers]()
+>#### [13- Autoriser session invité pour partage](https://github.com/Bilal-Aldimashq/Notes/edit/main/MIE/Manips%20et%20commandes.md#13--autoriser-session-invit%C3%A9-pour-partage-1)
+>#### [14- BlueScreen Violation Drivers](https://github.com/Bilal-Aldimashq/Notes/edit/main/MIE/Manips%20et%20commandes.md#14--bluescreen-violation-drivers-1)
 >#### [15- Empêcher Adobe de s'ouvrir pour fichier web](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Manips%20et%20commandes.md#15--emp%C3%AAcher-adobe-de-souvrir-pour-fichier-web-1)
 _________________________
 ## **1- Commandes Windows**
