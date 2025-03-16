@@ -64,10 +64,12 @@ ____
 - S'il y a un deuxième disque, l'initialiser avec _Gestionnaire de disque_ (**WIN+R: diskmgmt.msc**)
 - Mettre Google Chrome par défaut
 - Installer les drivers des imprimantes et scanner si besoin
-- Ajout dans le domaine s'il y a
+- Ajout dans le domaine s'il y a  
 **Pour les serveur**
   Lancer le script WakeOnLan
   - Installer Dell command/configures
   - Exécuter le script PowerShell (sur dossier procédure)
   - Ouvrir un CMD en Admin--> cd C:\programm Files(x86)\Dell\Command configure\x86_64
   - Faire la commande: cctk.exe --wakeonlan --> La sortie doit indiquer _wakeonlan=LANWLAN_
+_____
+_____
