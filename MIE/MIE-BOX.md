@@ -23,10 +23,11 @@ _____
 _____
 
 ## **3- Dépannage MIE-BOX**
-**Box remonte malgré tout les bon branchement et led verte:**
+**Box remonte pas malgré tout les bon branchement et led verte:**
 - Eteindre la box
 - Brancher un écran et un clavier
-- Rallumer la box et appuyer sur F9 pour accéder aux options avancées
+- Rallumer la box. **Elle ne prend pas de DHCP**
+- Appuyer sur F9 pour accéder aux options avancées
 - _Options_--> _Sata_--> Entrée--> Entrée--> Au message d'alerte Entrée
 - Sélectionner _Sata Legacy_
 - Appuyer sur la touche échap--> échap--> F10 pour quitter et sauvegarder
