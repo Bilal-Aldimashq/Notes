@@ -18,3 +18,6 @@ ____
   - [3- Scan sur TSE](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Galaxie.md#2--probl%C3%A8me-fichier-fse-1)
   - [4- Changer affichage monétaire](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Galaxie.md#4--changer-affichage-mon%C3%A9taire-1)
   - [5- Problème moteur FSE](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Galaxie.md#5--probl%C3%A8me-moteur-fse-1)
+____
+### [Logiciels et Applis](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logiciels%20et%20Applis.md#logiciels-et-applications)
+  - 
