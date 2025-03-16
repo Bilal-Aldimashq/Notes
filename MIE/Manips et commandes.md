@@ -120,7 +120,7 @@ Pour contrôler un PC Dell qui fonctionne mal:
 ______
 ______
 
-## **12- Lenteur PC
+## **12- Lenteur PC**
 - Ouvrir le _Gestionnaire de tâches_--> Mettre fin au tâches inutiles
 - Dans l'onglet des applications de démarrage, Désactiver les applications inutiles au démarrage
 - Contrôler l'espace disque
