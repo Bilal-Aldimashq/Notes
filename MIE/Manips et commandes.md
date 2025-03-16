@@ -14,7 +14,7 @@ ____________
 >#### 12- Lenteur PC
 >#### [13- Autoriser session invité pour partage]()
 >#### [14- BlueScreen Violation Drivers]()
-
+>#### [15- Empêcher Adobe de s'ouvrir pour fichier web]()
 _________________________
 ## **1- Commandes Windows**
 ### WIN+R:
@@ -164,5 +164,10 @@ _____
   - bcdedit /deletevalue {current} safeboot
 - Exit
 - Redémarrer le poste
+_____
+_____
+
+## **15- Empêcher Adobe de s'ouvrir pour fichier web**
+Dans l'application d'Adobe--> _Menu_--> _Préférences_--> _Internet_--> Décocher la case lecture par défault
 _____
 _____
