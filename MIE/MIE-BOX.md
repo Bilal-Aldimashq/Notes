@@ -1,12 +1,12 @@
 # **MIE-BOX**
 ______
->#### 1- Général
->#### 2- Contrôler sauvegardes MIE-BOX
->#### 3- Dépannage MIE-BOX
->#### [4- Commande MIE-BOX]()
->#### [5- Site MicroBoxConnect]()
->#### [6- Remontées MIE-BOX]()
->#### [7- Préparation MIE-BOX]()
+>#### [1- Général](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/MIE-BOX.md#1--g%C3%A9n%C3%A9ral)
+>#### [2- Contrôler sauvegardes MIE-BOX](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/MIE-BOX.md#2--contr%C3%B4ler-sauvegardes-mie-box)
+>#### [3- Dépannage MIE-BOX](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/MIE-BOX.md#2--contr%C3%B4ler-sauvegardes-mie-box)
+>#### [4- Commande MIE-BOX](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/MIE-BOX.md#4--commande-mie-box)
+>#### [5- Site MicroBoxConnect](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/MIE-BOX.md#5--site-microboxconnect)
+>#### [6- Remontées MIE-BOX](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/MIE-BOX.md#6--remont%C3%A9es-mie-box)
+>#### [7- Préparation MIE-BOX](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/MIE-BOX.md#7--pr%C3%A9paration-mie-box)
 
 _____
 ## **1- Général**
