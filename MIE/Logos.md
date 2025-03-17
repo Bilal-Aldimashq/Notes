@@ -1,17 +1,17 @@
 # **LOGOS**
 _________
 
->#### 1- Vider les caches Logos
->#### 2- Activer carte CPS
->#### 3- Problèmes accès dossier Wlogos2\Patients
->#### 4- Supprimer un dossier patient
->#### 5- Problème de télétransmission
->#### 6- [Fusionner carte CPS et CPE]()
->#### [7- Erreur rouge dll]()
->#### [8- Problème DBS Win]()
->#### [9- Configuration des boîtes gmail]()
->#### [10- Problème d'affichage]()
->#### [11- Tablette Logos]()
+>#### [1- Vider les caches Logos](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logos.md#1--vider-les-caches-logos-1)
+>#### [2- Activer carte CPS](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logos.md#2--activer-carte-cps-1)
+>#### [3- Problèmes accès dossier Wlogos2\Patients](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logos.md#3--probl%C3%A8me-acc%C3%A8s-dossier-wlogos2patients)
+>#### [4- Supprimer un dossier patient](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logos.md#4--supprimer-un-dossier-patient-1)
+>#### [5- Problème de télétransmission](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logos.md#5--probl%C3%A8me-de-t%C3%A9l%C3%A9transmission-1)
+>#### [6- Fusionner carte CPS et CPE](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logos.md#6--fusionner-carte-cps-et-cpe-1)
+>#### [7- Erreur rouge dll](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logos.md#7--erreur-rouge-dll-1)
+>#### [8- Problème DBS Win](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logos.md#8--probl%C3%A8me-dbs-win-1)
+>#### [9- Configuration des boîtes gmail](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logos.md#9--configuration-des-bo%C3%AEtes-gmail-1)
+>#### [10- Problème d'affichage](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logos.md#10--probl%C3%A8me-daffichage-1)
+>#### [11- Tablette Logos](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logos.md#11--tablette-logos-1)
 
 
 ___________________
