@@ -2,7 +2,7 @@
 ______
 >#### [1- Général](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/MIE-BOX.md#1--g%C3%A9n%C3%A9ral)
 >#### [2- Contrôler sauvegardes MIE-BOX](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/MIE-BOX.md#2--contr%C3%B4ler-sauvegardes-mie-box)
->#### [3- Dépannage MIE-BOX](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/MIE-BOX.md#2--contr%C3%B4ler-Dépannage-MIE-BOX-box)
+>#### [3- Dépannage MIE-BOX](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/MIE-BOX.md#3--d%C3%A9pannage-mie-box-1)
 >#### [4- Commande MIE-BOX](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/MIE-BOX.md#4--commande-mie-box)
 >#### [5- Site MicroBoxConnect](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/MIE-BOX.md#5--site-microboxconnect)
 >#### [6- Remontées MIE-BOX](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/MIE-BOX.md#6--remont%C3%A9es-mie-box)
