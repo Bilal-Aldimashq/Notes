@@ -90,7 +90,7 @@ ____________________
 - Cliquer sur l'îcone de messagerie--> _Paramètres_--> _Test_ (Mails)--> Tester envoie (Normalement toujours bon)
 - _Test reception_--> Coché _SSL_ et _ Identification_
 - Dans la case _PORT_, renseigner 465
-- Dans _Authentification--> Pour Mot de passe _Idem FSE_
+- Dans _Authentification_--> Pour Mot de passe _Idem FSE_
 - Faire le test (Doit être OK)
 ____________
 ____________
