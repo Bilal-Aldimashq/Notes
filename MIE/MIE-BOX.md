@@ -6,7 +6,7 @@ ______
 >#### [4- Commande MIE-BOX](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/MIE-BOX.md#4--commande-mie-box)
 >#### [5- Site MicroBoxConnect](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/MIE-BOX.md#5--site-microboxconnect)
 >#### [6- Remontées MIE-BOX](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/MIE-BOX.md#6--remont%C3%A9es-mie-box)
->#### [7- Préparation MIE-BOX](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/MIE-BOX.md#7--pr%C3%A9paration-mie-box)
+>#### [7- Préparation MIE-BOX](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/MIE-BOX.md#7--pr%C3%A9paration-mie-box-1)
 
 _____
 ## **1- Général**
