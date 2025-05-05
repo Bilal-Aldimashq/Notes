@@ -108,7 +108,7 @@ ____
   - Créer RAID 1 avec partition Swap
   - Créer RAID 1 avec partition Root
   - Créer RAID 5 avec les partitions restantes
-![](https://github.com/Bilal-Aldimashq/Notes/blob/main/Ressources/Partition_Debian%20(4).jpg)
+![](https://github.com/Bilal-Aldimashq/Notes/blob/main/Ressources/Partition_Debian%20(5).jpg)
 
 - Terminer les partitions
 - Choisir la zone Mirroir des gestionnaire de paquets
