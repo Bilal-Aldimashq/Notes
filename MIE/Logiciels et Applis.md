@@ -103,8 +103,8 @@ _____________
 ## **5- Wordpad**
 Pour réinstaller Wordpad
 - Télécharger Wordpad
-- Décompresser le dossier et le placer dans C:\Programmes\WindowsNT
-- Créer un raccource de Wordpad sur le bureau
+- Décompresser le dossier et le placer dans C:\Programmes\WindowsNT\Accessories
+- Créer un raccourcie de Wordpad sur le bureau et le définir comme application par défaut pour les .docx
 ___________
 ___________
 
