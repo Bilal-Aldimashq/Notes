@@ -99,15 +99,17 @@ ____
   - Créer une partition avec le reste--> Utiliser comme--> Ne pas utiliser
 ![](https://github.com/Bilal-Aldimashq/Notes/blob/main/Ressources/Partition_Debian%20(1).jpg)
 
+
+- Aller sur _Configurer les RAID avec avec logiciel_
+  - Créer RAID 1 avec les partitions boot
+  - Créer RAID 5 avec partition Swap
+  - Créer RAID 1 avec partition Root
+  - Créer RAID 5 avec les partitions restantes
+
 - Utiliser les partitions 1Go en Boot en ext4
 - Utiliser les partitions 9Go en swap
 - Utiliser les partitions 40Go pour root en ext4
 - Utiliser les partitions restantes en ext4
-- Aller sur _Configurer les RAID avec avec logiciel_
-  - Créer RAID 1 avec les partitions boot
-  - Créer RAID 1 avec partition Swap
-  - Créer RAID 1 avec partition Root
-  - Créer RAID 5 avec les partitions restantes
 ![](https://github.com/Bilal-Aldimashq/Notes/blob/main/Ressources/Partition_Debian%20(5).jpg)
 
 - Terminer les partitions
