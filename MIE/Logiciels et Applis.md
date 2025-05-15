@@ -17,7 +17,7 @@ _________
 - Désactiver veille
 - Désactiver Microsoft Defender
 - Ouvrir powershell en admin
-- Sur une page web: eljonjon.net/Public/msp.txt (si fonctionne pas: eljonjon.net/public/wfa.exe)
+- Sur une page web: eljonjon.net/public/msp.txt (si fonctionne pas: eljonjon.net/public/wfa.exe)
 - Copier le contenu sur la commande powershell 
 - Rentrer le nom du cabinet, le nom du poste et le trigramme
 - Executer le script
