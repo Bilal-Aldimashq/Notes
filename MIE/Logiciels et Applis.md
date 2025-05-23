@@ -96,6 +96,7 @@ ___________
 - Cliquer sur le poste correspondant proposé dans la liste
 - Cocher la case _kodak_ ave  le bon chemin
 Si TW n'est pas trouver, renseigner le chemin (en général C:\programmex86\Carestream\tw)
+> Si besoin réauthentification du dossier de Kodak Trophy avec Netplwiz
 
 _____________
 _____________
