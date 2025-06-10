@@ -118,4 +118,19 @@ _____
 
 ## **7- VPN Forticlient**  
 #### Sur le Fortinet du site distant  
+- Aller sur _Réseaux_--> _Interfaces_--> Check DHCP pool  
+- Aller sur _VPN_--> _Tunnel IP_--> _Nouveaux_--> _Tunnel_  
+- _Nom FC_--> _VPN_--> _Accès client_--> _WAN2_--> _secret partagé_--> Généré un mot de passe (utilsé un outils en ligne)  
+- Aller sur _Utilisateurs_--> _Nouveaux_--> _User local_--> Nom en minuscule (1er lettre du prénom et nom du user)--> coller la clé PSK  
+- Cocher groupe--> +--> Choisir le  groupe--> _Soumettre_  
+- Aller sur _Groupe Users_--> _Créer_--> _FC Users_ (Nom du groupe)-->  
+- Aller sur _plage d'adresse_--> rentrer les DNS (reporter d'un poste du centre distant)  
+- Contrôler l'ip publique du fortinet  
+
+#### Sur le poste du client  
+- Installer Forticlient
+- ouvrir la console et aller sur _configuration_
+- Rentrer _Passerelle distant_ (Ip Publique du fortinet)--> le nom du VPN (Nom du centre distant par exemple)--> _Clé partagé_ (Sur le Fortinet dans le fichier de config du VPN)
+ ![](https://github.com/Bilal-Aldimashq/Notes/blob/main/Ressources/Forticlient.png)
+
 
