@@ -115,3 +115,7 @@ ___________
 Même procédé que pour le dossier Patient Logos en partageant le dossier **Orqual**
 _____
 _____
+
+## **7- VPN Forticlient**  
+#### Sur le Fortinet du site distant  
+
