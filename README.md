@@ -26,6 +26,7 @@ ____
   - [4- Desmos](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logiciels%20et%20Applis.md#4--desmos-1)
   - [5- Wordpad](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logiciels%20et%20Applis.md#5--wordpad-1)
   - [6- Orthalis](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logiciels%20et%20Applis.md#6--orthalis-1)
+  - [7- VPN Forticlient](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logiciels%20et%20Applis.md#7--vpn-forticlient)
 ____
 ### [LOGOS](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logos.md#logos)
   - [1- Vider les caches Logos](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logos.md#1--vider-les-caches-logos-1)
