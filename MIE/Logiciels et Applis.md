@@ -129,8 +129,12 @@ _____
 
 #### Sur le poste du client  
 - Installer Forticlient
-- ouvrir la console et aller sur _configuration_
+- Ouvrir la console en lançant l'application Forticlient et aller sur _configuration_
 - Rentrer _Passerelle distant_ (Ip Publique du fortinet)--> le nom du VPN (Nom du centre distant par exemple)--> _Clé partagé_ (Sur le Fortinet dans le fichier de config du VPN)
  ![](https://github.com/Bilal-Aldimashq/Notes/blob/main/Ressources/Forticlient.png)
+- Renseigner le nom d'utilisateur et le mot de passe généré.
+- Appuyer sur _Connecter_
+
+
 
 
