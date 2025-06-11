@@ -7,6 +7,7 @@ _________
 >#### [5- Wordpad](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logiciels%20et%20Applis.md#5--wordpad-1)
 >#### [6- Orthalis](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logiciels%20et%20Applis.md#6--orthalis-1)
 >#### [7- VPN Forticlient](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logiciels%20et%20Applis.md#7--vpn-forticlient-1)
+>#### [8- Gmail sur Outlook](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/Logiciels%20et%20Applis.md#8--gmail-sur-outlook-1)
 
 _________
 
