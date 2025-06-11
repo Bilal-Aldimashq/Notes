@@ -141,7 +141,7 @@ ___________
 ## **8- Gmail sur Outlook**  
 - Créer un mot de passe d'appli  
 - Activer la double authentification (Dans les paramètres profil Google)
-Faire manuellement la config (Contrôler port imap et smtp)
+Faire manuellement la config (Contrôler port imap et smtp)  
 Ajouter le compte sur le profil windows  
 ![](https://github.com/Bilal-Aldimashq/Notes/blob/main/Ressources/Gmail%20on%20outlook%20(2).png)
 
