@@ -134,6 +134,22 @@ _____
  ![](https://github.com/Bilal-Aldimashq/Notes/blob/main/Ressources/Forticlient.png)
 - Renseigner le nom d'utilisateur et le mot de passe généré.
 - Appuyer sur _Connecter_
+___________
+___________
+
+## **8- Gmail sur Outlook**  
+- Créer un mot de passe d'appli  
+- Activer la double authentification (Dans les paramètres profil Google)
+Faire manuellement la config (Contrôler port imap et smtp)
+Ajouter le compte sur le profil windows  
+![](https://github.com/Bilal-Aldimashq/Notes/blob/main/Ressources/Gmail%20on%20outlook%20(2).png)
+
+Paramètres de la boite   
+![](https://github.com/Bilal-Aldimashq/Notes/blob/main/Ressources/Gmail%20on%20outlook%20(1).png)
+
+________
+________
+  
 
 
 
