@@ -7,6 +7,7 @@ ______
 >#### [5- Site MicroBoxConnect](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/MIE-BOX.md#5--site-microboxconnect)
 >#### [6- Remontées MIE-BOX](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/MIE-BOX.md#6--remont%C3%A9es-mie-box)
 >#### [7- Préparation MIE-BOX](https://github.com/Bilal-Aldimashq/Notes/blob/main/MIE/MIE-BOX.md#7--pr%C3%A9paration-mie-box-1)
+>#### [8- Configuration Veeam Miebox](https://github.com/Bilal-Aldimashq/Notes/edit/main/MIE/MIE-BOX.md#8-configuration-veeam-miebox)
 
 _____
 ## **1- Général**
@@ -116,6 +117,11 @@ ____
 - Choisir la zone Mirroir des gestionnaire de paquets
 - Ne prendre aucun environement de bureau et cocher SSH
 - Quand l'installation est finis, débrancher la box--> Enlever la clé--> La redémarrer. Si tout boot bien c'est OK
+_______
+_______
+
+## **8-Configuration Veeam Miebox**
+
  
 
 
