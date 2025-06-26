@@ -43,7 +43,7 @@ ____
 ____
 
 ## **4- Commande MIE-BOX**
-- Génération de Box: `dmidecode | grep -A3 '^system information^'`
+- Génération de Box: dmidecode
 - Nom du cabinet: Aller dans le dossier script et afficher docteur.txt
 - Status de la box et de l'exeternisation des sauvegarde = `extern` (Réhausse = 200Gb sinon c'est 100Gb)
 - Afficher les disque de la box = `fdisk -l`
